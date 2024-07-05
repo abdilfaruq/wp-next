@@ -1,0 +1,54 @@
+{
+	"$schema": "https://schemas.wp.org/wp/6.4/theme.json",
+	"version": 2,
+	"title": "Purple",
+	"settings": {
+		"color": {
+			"duotone": [],
+			"gradients": [
+				{
+					"gradient": "linear-gradient(-225deg,#231557,#44107a 29%,#ff1361 67%,#fff800)",
+					"name": "Fabled Sunset",
+					"slug": "fabled-sunset"
+				},
+				{
+					"gradient": "linear-gradient(180deg,rgb(18, 18, 18) 0%, rgb(34, 34, 34) 100%)",
+					"name": "Transition",
+					"slug": "transition"
+				},
+				{
+					"gradient": "linear-gradient(180deg, rgb(34, 34, 34) 0%,  rgb(29, 146, 255) 100%)",
+					"name": "Transition-Two",
+					"slug": "transition-two"
+				},
+				{
+					"gradient": "linear-gradient(0deg,rgb(18, 18, 18) 0%, rgb(26, 26, 26) 100%)",
+					"name": "Transition-Three",
+					"slug": "transition-three"
+				}
+			],
+			"palette": [
+				{
+					"color": "#fff",
+					"name": "White",
+					"slug": "white"
+				},
+				{
+					"color": "#000",
+					"name": "Black",
+					"slug": "black"
+				},
+				{
+					"color": "#8c53c6",
+					"name": "First",
+					"slug": "first"
+				},
+				{
+					"color": "#DBDBDB",
+					"name": "Second",
+					"slug": "Second"
+				}
+			]
+		}
+	}
+}

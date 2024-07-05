@@ -1,0 +1,221 @@
+{
+	"settings": {
+		"appearanceTools": true,
+		"color": {
+			"duotone": [],
+			"gradients": [
+				{
+					"gradient": "linear-gradient(-225deg,#231557,#44107a 29%,#ff1361 67%,#fff800)",
+					"name": "Fabled Sunset",
+					"slug": "fabled-sunset"
+				},
+				{
+					"gradient": "linear-gradient(180deg,rgb(18, 18, 18) 0%, rgb(34, 34, 34) 100%)",
+					"name": "Transition",
+					"slug": "transition"
+				},
+				{
+					"gradient": "linear-gradient(180deg, rgb(34, 34, 34) 0%,  rgb(29, 146, 255) 100%)",
+					"name": "Transition-Two",
+					"slug": "transition-two"
+				},
+				{
+					"gradient": "linear-gradient(0deg,rgb(18, 18, 18) 0%, rgb(26, 26, 26) 100%)",
+					"name": "Transition-Three",
+					"slug": "transition-three"
+				}
+			],
+			"palette": [
+				{
+					"color": "#fff",
+					"name": "White",
+					"slug": "white"
+				},
+				{
+					"color": "#000",
+					"name": "Black",
+					"slug": "black"
+				},
+				{
+					"color": "#0d0d0d;",
+					"name": "First",
+					"slug": "first"
+				},
+				{
+					"color": "#9c9c9c;",
+					"name": "Second",
+					"slug": "Second"
+				}
+			]
+		},
+		"layout": {
+			"contentSize": "620px",
+			"wideSize": "1000px"
+		},
+		"spacing": {
+			"units": [
+				"%",
+				"px",
+				"em",
+				"rem",
+				"vh",
+				"vw"
+			]
+		},
+		"typography": {
+			"fontFamilies": [
+				{
+					"fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif",
+					"name": "System Font",
+					"slug": "system-font"
+				},
+				{
+					"fontFace": [],
+					"fontFamily": "\"Russo One\", sans-serif",
+					"name": "Russo One",
+					"slug": "russo-one"
+				},
+				{
+					"fontFace": [],
+					"fontFamily": "Urbanist, sans-serif",
+					"name": "Urbanist",
+					"slug": "urbanist"
+				},
+				{
+					"fontFace": [
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "normal",
+							"fontWeight": "300",
+							"src": "file:./assets/fonts/Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_chQF5bwkEU4HTy.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "normal",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_d_QF5bwkEU4HTy.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "normal",
+							"fontWeight": "500",
+							"src": "file:./assets/fonts/Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_dNQF5bwkEU4HTy.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "normal",
+							"fontWeight": "600",
+							"src": "file:./assets/fonts/Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_ehR15bwkEU4HTy.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "normal",
+							"fontWeight": "700",
+							"src": "file:./assets/fonts/Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_eYR15bwkEU4HTy.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "normal",
+							"fontWeight": "800",
+							"src": "file:./assets/fonts/Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_f_R15bwkEU4HTy.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "normal",
+							"fontWeight": "900",
+							"src": "file:./assets/fonts/Xmz-HUzqDCFdgfMsYiV_F7wfS-Bs_fWR15bwkEU4HTy.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "italic",
+							"fontWeight": "300",
+							"src": "file:./assets/fonts/Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A-gdyEA25WTybO8.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "italic",
+							"fontWeight": "400",
+							"src": "file:./assets/fonts/Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A7YdyEA25WTybO8.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "italic",
+							"fontWeight": "500",
+							"src": "file:./assets/fonts/Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A4QdyEA25WTybO8.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "italic",
+							"fontWeight": "600",
+							"src": "file:./assets/fonts/Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A2gayEA25WTybO8.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "italic",
+							"fontWeight": "700",
+							"src": "file:./assets/fonts/Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3A1EayEA25WTybO8.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "italic",
+							"fontWeight": "800",
+							"src": "file:./assets/fonts/Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3AzYayEA25WTybO8.woff2"
+						},
+						{
+							"fontFamily": "Figtree",
+							"fontStyle": "italic",
+							"fontWeight": "900",
+							"src": "file:./assets/fonts/Xm9-HUzqDCFdgfMm4GnA4aZFrUvtOK3Ax8ayEA25WTybO8.woff2"
+						}
+					],
+					"fontFamily": "Figtree, sans-serif",
+					"name": "Figtree",
+					"slug": "figtree"
+				}
+			],
+			"fontSizes": [
+				{
+					"name": "xSmall",
+					"size": "26px",
+					"slug": "x-small"
+				},
+				{
+					"name": "Small",
+					"size": "38px",
+					"slug": "small"
+				},
+				{
+					"name": "Medium",
+					"size": "46px",
+					"slug": "medium"
+				},
+				{
+					"name": "Large",
+					"size": "54px",
+					"slug": "large"
+				},
+				{
+					"name": "xLarge",
+					"size": "62px",
+					"slug": "x-large"
+				}
+			]
+		},
+		"useRootPaddingAwareAlignments": true
+	},
+	"styles": {
+		"css": "#container_m {\n    z-index: 1000;\n    height: 100vh;\n    width: 100%;\n    position: fixed;\n    top: 0;\n    pointer-events: none;\n    user-select: none;\n  }\n  .mouse_tag h2, .cursor_new h2 {\n    display: none;\n  }\n  .cursor {\n    width: var(--size);\n    height: var(--size);\n    border-radius: 50%;\n    position: absolute;\n    left: 0;\n    top: 0;\n    transform: translate(-50%, -50%);\n    pointer-events: none;\n    z-index: 1000;\n  }\n  .cursor--large {\n    --size: 30px;\n    border: 2px solid #f1f1f1;\n  }\n  .cursor--small {\n    --size: 8px;\n    background: #ffffff;\n  }\n  .wp-block-navigation__responsive-container-open svg {\n    width: 60px;\n    height: 60px;\n  }\n  .faixa_bg {\n \n    background-repeat: no-repeat;\n    background-position: left;\n    background-position-y: bottom;\n    background-size: cover;\n  }\n  .menu_desk_r {\n    background-color: #000;\n    background: linear-gradient(0deg, #000 0%, #0d0d0d 100%);\n    float: right;\n    margin-top: -100vh;\n  }\n  .menu_desk_r .icones {\n    writing-mode: vertical-lr;\n    height: 100vh;\n  }\n  .menu_desk_r .icones h2 {\n    text-align: right;\n    /* color: transparent !important; */\n    text-shadow: none;\n    /* -webkit-text-stroke: 2px #ffffff80; */\n    font-size: 5rem !important;\n    font-weight: 400;\n    padding: 42px 22px;\n  }\n  .stroke_text {\n    color: #ffffff00;\n    -webkit-text-stroke: 2px #fff;\n  }\n  .stroke_text2 {\n    color: #ffffff00;\n    -webkit-text-stroke: 1px #ffffff80;\n    letter-spacing: 4px;\n  }\n  .video_group {\n    position: relative;\n  }\n  .video_text {\n    z-index: 1;\n    position: relative;\n    margin: 0;\n  }\n  .video_section video {\n    width: 100%;\n    height: 100%;\n    position: absolute;\n    object-fit: cover;\n    z-index: 0;\n  }\n  .h1_hero span {\n    color: var(--wp--preset--color--second) !important;\n  }\n  .marquee {\n    overflow: hidden;\n    width: 100%;\n  }\n  .marquee__inner {\n    display: flex;\n    position: relative;\n    white-space: nowrap;\n    gap: 50px;\n  }\n  .marquee__item {\n    position: relative;\n    display: flex;\n    align-items: center;\n    padding: 42px;\n  }\n  .pt-30 {\n    padding-top: 30vh !important;\n  }\n  .pt-20 {\n    padding-top: 20vh !important;\n  }\n  .pr-20 {\n    padding-right: 2rem !important;\n  }\n  .pb-30 {\n    padding-bottom: 30vh !important;\n  }\n  .botao_video {\n    position: relative;\n    z-index: 1;\n  }\n  .section_x {\n    height: 100vh;\n    width: 100%;\n  }\n  .section_x2 {\n    height: 100vh;\n    width: 100%;\n  }\n  .outer {\n    overflow-x: hidden;\n  }\n  .mask {\n    overflow-y: hidden;\n  }\n  .slider {\n    width: 280%;\n    height: 100vh;\n    display: flex;\n    flex-wrap: nowrap;\n  }\n  .slider2 {\n    width: 200%;\n    height: 100vh;\n    display: flex;\n    flex-wrap: nowrap;\n  }\n  .accordion-content {\n    height: 0;\n    overflow: hidden;\n  }\n  .accordion-content.expanded {\n    height: 0;\n    overflow: hidden;\n  }\n  .wp-block-latest-posts__post-excerpt {\n    color: var(--wp--preset--color--second) !important;\n    margin-bottom: 1em;\n    margin-top: 0.5em;\n    font-weight: 300;\n    font-size: 1.5rem;\n  }\n  .wp-block-latest-posts__post-author,\n  .wp-block-latest-posts__post-date {\n    font-size: 1.2rem;\n    margin-top: 8px;\n  }\n  .wp-block-latest-posts__featured-image img {\n    max-width: 100% !important;\n  }\n  .client_item {\n    padding-top: 48px;\n    padding-bottom: 48px;\n  }\n  .gap-o {\n    gap: 0 !important;\n    margin-block-start: 0 !important;\n  }\n  .b_top {\n    border-top: 1px solid #fff;\n  }\n  .b_bottom {\n    border-bottom: 1px solid #fff;\n  }\n  .b_left {\n    border-left: 1px solid #fff;\n  }\n  .b_right {\n    border-right: 1px solid #fff;\n  }\n  .social_midia_btn {\n    color: #000 !important;\n    background-color: #fff;\n    padding: 6px 26px;\n    border-radius: 25px;\n    display: table;\n  }\n  \n  @media (max-width: 768px) {\n    h1,\n    h2,\n    h3 {\n      font-size: 2.8rem !important;\n    }\n    .b_top {\n      border-top: none !important;\n    }\n    .b_bottom {\n      border-bottom: none !important;\n    }\n    .b_left {\n      border-left: none !important;\n    }\n    .b_right {\n      border-right: none !important;\n    }\n    .menu_desk_r {\n      display: none !important;\n    }\n  \n    .faixa_bg .wp-block-group .accordion-menu .accordion-group h2 {\n      font-size: 1.8rem !important;\n    }\n    .faixa_bg\n      .wp-block-group\n      .accordion-group\n      .accordion-menu\n      .wp-block-image\n      img {\n      width: 40px !important;\n    }\n    .accordion-group,\n    .wp-block-group-is-layout-constrained {\n      max-width: 100% !important;\n    }\n    .wp-block-group-is-layout-constrained p,\n    .wp-block-group-is-layout-constrained h2 {\n      max-width: 90% !important;\n    }\n    .cursor--large {\n      display: none !important;\n    }\n    .cursor--small {\n      display: none !important;\n    }\n    .menu_desk {\n      display: none !important;\n    }\n    .arrow {\n      display: none !important;\n    }\n    .mobile_menu {\n      display: none !important;\n    }\n  }\n  \n  \n  .menu_desk {\n    width: 12vw;\n    background-color: #000;\n    background: linear-gradient(180deg, #000 0%, #0d0d0d 100%);\n    position: absolute;\n    left: 0;\n    top: 0;\n    height: 90vh;\n  }\n  .vertical-text {\n    font-size: 1.2rem;\n    font-weight: 400;\n    color: var(--wp--preset--color--white);\n    font-family: var(--wp--preset--font-family--urbanist) !important;\n    z-index: 100000;\n  }\n  .menu_desk .icones {\n    writing-mode: vertical-lr;\n    position: fixed;\n    display: flex;\n    padding: 192px 25px 0 25px;\n  }\n  .menu_desk .icones p svg {\n    margin-left: -10px;\n    margin-bottom: 15px;\n  }\n  \n  .menu_desk_r {\n    background-color: #000;\n    background: linear-gradient(0deg, #000 0%, #0d0d0d 100%);\n    height: 100vh;\n    float: right;\n    margin-top: -200px;\n  }\n  \n  .menu_desk_r .icones {\n    writing-mode: vertical-lr;\n    height: 100vh;\n  }\n  .menu_desk_r .icones span {\n    color: transparent;\n    text-shadow: none;\n    -webkit-text-stroke: 1px #ffffff54;\n    font-family: var(--fonte_principal);\n    font-size: 7rem;\n    font-style: normal;\n    font-weight: 400;\n  }\n  .color_menu_desk a {\n    color: var(--wp--preset--color--second) !important;\npadding-left: 12px\n} \n.color_menu_desk svg {\ncolor: var(--wp--preset--color--second);\n}\n@media (min-width: 600px) and (max-width: 900px) {\n  .wp-block-latest-posts.columns-3 li {\n      width: 45%;\n      margin: 12px\n    }\n}\n\n.marquee__item {\ndisplay: table; }"
+	},
+	"templateParts": [
+		{
+			"area": "header",
+			"name": "header"
+		},
+		{
+			"area": "footer",
+			"name": "footer"
+		}
+	],
+	"version": 2,
+	"$schema": "https://schemas.wp.org/wp/6.5/theme.json"
+}
